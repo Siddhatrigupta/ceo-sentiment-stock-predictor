@@ -1,0 +1,6 @@
+flask
+transformers==4.57.1
+torch
+nrclex
+textblob
+tf-keras
